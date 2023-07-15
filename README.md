@@ -21,7 +21,7 @@
 Apaixonada por tecnologia, educação e por mudar os processos analíticos através da programação.
 
 ## Últimos vídeos:
-- [Criando crud em Phyton para gestão de equipamentos analíticos - Projeto MVP_Sprint I](https://youtu.be/UGz9AECIHPU)<br/>
+- [Criando crud em Phyton para gestão de equipamentos analíticos - Projeto MVP_Sprint I](https://youtu.be/dBb-k84opys)<br/>
 
 
 
