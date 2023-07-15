@@ -1,7 +1,7 @@
 ### Olá, Eu sou a Kelly Vieira ✋
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://)
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXW7a9f8NLhbScaDR9zQCiQ)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/dBb-k84opys)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amlife2/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/kelly-vieira-analistadesistema/)
 
